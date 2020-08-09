@@ -31,7 +31,7 @@ When you create a new VM, all traffic from the Internet is blocked by default.
 
 To enable the RDP port in an NSG, follow these steps:
 1. Sign in to [the Azure portal](https://portal.azure.com).
-2. In **Virtual Machines**, select the VM that has the problem. 
+2. In **Virtual Machines**, select the VM that has the problem..
 3. In **Settings**, select **Networking**. 
 4. In **Inbound port rules**, check whether the port for RDP is set correctly. The following is an example of the configuration: 
 
