@@ -18,7 +18,7 @@ ms.author: genli
 
 #  An internal error occurs when you try to connect to an Azure VM through Remote Desktop
 
-This article describes an error that you may experience when you try to connect to a virtual machine (VM) in Microsoft Azure.
+This article describes an error that you may experience when you try to connect to a virtual machine (VM) in Microsoft Azure..
 
 
 ## Symptoms
